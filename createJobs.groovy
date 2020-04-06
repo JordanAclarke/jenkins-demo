@@ -12,7 +12,7 @@ pipelineJob('theme-park-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/JordanAclarke/Theme-parkrides-jenkinsintegration.git'
+                        url 'https://github.com/JordanAclarke/spring-boot-api-example.git'
                     }
                     branch 'master'
                 }
