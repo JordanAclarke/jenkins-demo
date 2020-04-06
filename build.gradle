@@ -1,3 +1,4 @@
+import org.gradle.nativeplatform.platform.internal.DefaultNativePlatform
 plugins {
     id 'base'
     id 'com.palantir.docker' version '0.25.0'
